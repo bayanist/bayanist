@@ -1,18 +1,7 @@
-# [AntonTitov](https://github.com/bayanist) 
+# [AntonTitov](https://github.com/bayanist) - AI Developer & Software Engineer
 
-<pre>
+<div align="left">
+[![API](https://img.shields.io/badge/API-FF1493?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+</div>
 
-             \     /
-             \\   //
-              )\-/(
-              /e e\
-             ( =Y= )
-             /`-!-'\
-        ____/ /___\ \
-   \   /    ```    ```~~"--.,_
-`-._\ /                       `~~"--.,_
------>|                                `~~"--.,_
-_.-'/ \                                         ~~"--.,_
-   /   \_________________________,,,,....----""""~~~~````
 
-</pre>
