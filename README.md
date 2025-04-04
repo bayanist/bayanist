@@ -8,5 +8,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
 ---
 
- **Телефон:** [+7 (937)-986-777-6](tel:+79379867776)  
- **Telegram:** [@bayanman](https://t.me/bayanman)
+ - **Телефон:** [+7 (937)-986-777-6](tel:+79379867776)  
+ - **Telegram:** [@bayanman](https://t.me/bayanman)
+ - **WhatsApp:** [Написать сообщение](https://api.whatsapp.com/send?phone=79379867776)
