@@ -9,4 +9,4 @@
 
  - **Телефон:** [+7 (937)-986-777-6](tel:+79379867776)  
  - **Telegram:** [@bayanman](https://t.me/bayanman)
- - **WhatsApp:** [Написать сообщение](https://api.whatsapp.com/send?phone=79379867776)
+ - **WhatsApp:** [💬 Написать сообщение](https://api.whatsapp.com/send?phone=79379867776)
