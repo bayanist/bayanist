@@ -7,7 +7,7 @@
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=wordpress&logoColor=white)](https://woocommerce.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.org/)
 
-## Для связи
+## 🔗 Для связи
 - **Телефон:** <a href="tel:+79379867776" target="_blank">+7 (937)-986-777-6</a>  
 - **Telegram:** <a href="https://t.me/bayanman" target="_blank">@bayanman</a>  
 - **WhatsApp:** <a href="https://wa.me/79379867776" target="_blank">💬 Написать сообщение</a>  
