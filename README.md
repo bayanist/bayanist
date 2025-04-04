@@ -12,3 +12,6 @@
 - **Telegram:** <a href="https://t.me/bayanman" target="_blank">@bayanman</a>  
 - **WhatsApp:** <a href="https://wa.me/79379867776" target="_blank">💬 Написать сообщение</a>  
 
+## 💳 Реквизиты карты (СБЕРБАНК)
+
+5336 6903 6209 6655
