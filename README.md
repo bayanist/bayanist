@@ -8,6 +8,6 @@
 
 ## 🔗 Для связи
 - **Телефон:** <a href="tel:+79379867776" target="_blank">+7 (937)-986-777-6</a>  
-- **Telegram:** <a href="https://t.me/bayanman" target="_blank">@bayanman</a>  
+- **Telegram:** <a href="https://t.me/titovcode" target="_blank">@titovcode</a>  
 - **WhatsApp:** <a href="https://wa.me/79379867776" target="_blank">💬 Написать сообщение</a>  
 
